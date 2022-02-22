@@ -25,7 +25,7 @@
 
 🇹🇷 5 farklı koruma seçenekli anti spam bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuzunluArtemis/AntiSpamBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Doctorstra/AntiSpamBot)
 
 ## Setting up config file
 <details>
